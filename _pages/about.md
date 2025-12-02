@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='https://scholar.google.com/citations?user=WG3OkQ4AAAAJ&hl=it'>Google Scholar</a>/ <a href='https://www.linkedin.com/in/giulia-martinelli-9266061aa/'>LinkedIn</a>/ <a href='https://github.com/giuli13'>Github</a>
+subtitle: <a href='https://scholar.google.com/citations?user=WG3OkQ4AAAAJ&hl=it'>Google Scholar</a> / <a href='https://www.linkedin.com/in/giulia-martinelli-9266061aa/'>LinkedIn</a> / <a href='https://github.com/giuli13'>Github</a> / <a href='mailto:giulia.martinelli-2@unitn.it'>Email</a>
 
 profile:
   align: right
